@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="regions_list">
+        <item>Northeast</item>
+        <item>South</item>
+        <item>West</item>
+    </string-array>
+    <string-array name="regions_list_for_settings">
+		<item>Northeast</item>
+        <item>South</item>
+        <item>West</item>
+    </string-array>
+    <string-array name="guesses_list">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+
+</resources>
